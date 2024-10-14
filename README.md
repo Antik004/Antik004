@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![](https://visitcount.itsvg.in/api?id=Antik004&label=Profile%20Views&color=4&icon=0&pretty=true)](https://visitcount.itsvg.in)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Antik004)](https://github.com/ryo-ma/github-profile-trophy)
-![GitHub](https://raw.github.com/Antik004/github-contribution-color-graph/master/docs/contributions-github-default.png)
+![GitHub](https://raw.github.com/williambelle/github-contribution-color-graph/master/docs/contributions-github-default.png)
