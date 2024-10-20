@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antik004&label=Profile%20views&color=0e75b6&style=flat" alt="antik004" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antik004" alt="antik004" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antik004&theme=onedark" alt="antik004" /></a> </p>
 
 - 📫 How to reach me **adhyaantik03@gmail.com**
 
