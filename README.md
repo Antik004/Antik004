@@ -47,3 +47,4 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antik004&show_icons=true&locale=en" alt="antik004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antik004&" alt="antik004" /></p>
+![](https://leetcard.jacoblin.cool/jacoblincool?cache=0)
