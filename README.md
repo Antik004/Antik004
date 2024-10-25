@@ -48,3 +48,4 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antik004&" alt="antik004" /></p>
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/ANTIK_ADHYA)](https://leetcode.com/ANTIK_ADHYA)
