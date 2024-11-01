@@ -43,7 +43,8 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">Certifiicates and Achievements:<h3>
- <a heref="https://www.credly.com/badges/8f827580-7c28-4923-a2ef-059a7c535ec8/public_url"> <img src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Google Cybersecurity" height=100 width=100/></a>
+  
+<p align="left"> <a href="https://www.credly.com/badges/8f827580-7c28-4923-a2ef-059a7c535ec8/public_url" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="c" width="40" height="40"/> </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antik004&show_icons=true&locale=en&layout=compact" alt="antik004" /></p>
 
