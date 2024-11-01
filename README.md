@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">Certifiicates and Achievements:<h3>
-![Google Cybersecurity Certificate](<https://www.credly.com/badges/8f827580-7c28-4923-a2ef-059a7c535ec8/public_url>)
+![Google Cybersecurity Certificate](<https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png>)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antik004&show_icons=true&locale=en&layout=compact" alt="antik004" /></p>
 
