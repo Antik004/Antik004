@@ -57,4 +57,4 @@ Here are some ideas to get you started:
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/ANTIK_ADHYA)](https://leetcode.com/ANTIK_ADHYA)
 
-![Snake animation](https://github.com/thepiyushmalhotra/antik004/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/antik004/antik004/blob/output/github-contribution-grid-snake.svg)
