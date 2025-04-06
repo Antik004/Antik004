@@ -10,7 +10,7 @@ Here are some ideas to get you started:-->
 
 <h1 align="center"></h1>
 
- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30height=100&section=header&text=Hi👋,%20I'm%20Antik%20Adhya&fontSize=50)
+ ![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=0,2,2,5,30height=100&section=header&text=Hi👋,%20I'm%20Antik%20Adhya&fontSize=50)
 
 <h3 align="center">A CyberSecurity Enthusiast🧑‍💻.</h3>
  
@@ -34,11 +34,7 @@ Here are some ideas to get you started:-->
 
 - 📫 How to reach me **adhyaantik03@gmail.com**
 - 🖇️ Linked In      **https://www.linkedin.com/in/antik-adhya-b48972188/**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antik adhya" height="30" width="40" />
-</a>
-</p>
+
 
 
 
