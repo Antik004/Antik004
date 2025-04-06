@@ -40,7 +40,7 @@ Here are some ideas to get you started:
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
         <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="c" width="40" height="40"/> </a> 
-        <a href="https://ghidra-sre.org/"><img src=https://ghidra-sre.org/images/GHIDRA_1.png" alt="ghidra" width="40"/></a>
+        <a href="https://ghidra-sre.org/"><img src="https://ghidra-sre.org/images/GHIDRA_1.png" width="40" height="40"/></a>
 
 
 </p>
