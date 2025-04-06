@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Antik Adhya</h1>
 <h3 align="center">A CyberSecurity Enthusiast.</h3>
 
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&&section=header&text=&fontSize=90)
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antik004&label=Profile%20views&color=0e75b6&style=flat" alt="antik004" /> </p>
 
@@ -57,4 +58,4 @@ Here are some ideas to get you started:
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/ANTIK_ADHYA)](https://leetcode.com/ANTIK_ADHYA)
 
-![Snake animation](https://github.com/antik004/antik004/blob/output/github-contribution-grid-snake.svg)
+
