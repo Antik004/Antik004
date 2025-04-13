@@ -4,11 +4,11 @@
 **Antik004/Antik004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
-
-
-
-
 <h1 align="center"></h1>
+
+
+
+
 
  ![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=0,2,2,5,30height=100&section=header&text=Hi👋,%20I'm%20Antik%20Adhya&fontSize=50)
 
@@ -25,7 +25,10 @@ Here are some ideas to get you started:-->
 - 🤔 I’m looking for help with ...     VAPT
 - 💬 Ask me about ...                  Network Security and Pentesting Tools
 
+<h1 align="center"></h1>
+
   <br>
+  
  ![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=gradient&customColorList=0,2,2,5,30&height=100&&section=header&text=&fontSize=90)
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antik004&label=Profile%20views&color=0e75b6&style=flat" alt="antik004" /> </p>
@@ -39,10 +42,14 @@ Here are some ideas to get you started:-->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&&section=header&text=&fontSize=90)
 
+<h1 align="center"></h1>
+
 <h3 align="left">TryHackMe!:</h3>
 
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ARCEUS.png?cb=2025041315)         
 👉  <a href="https://tryhackme.com/p/ARCEUS">Visit My Profile🚗</a>
+
+<h1 align="center"></h1>
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
 
@@ -66,13 +73,21 @@ Here are some ideas to get you started:-->
   
 <p align="left"> <a href="https://www.credly.com/badges/8f827580-7c28-4923-a2ef-059a7c535ec8/public_url" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="c" width="200" height="200"/> </a>
 
+<p align="left"> <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FRYGAZIGPX.pdf" target="_blank" rel="noreferrer"> <img src="" alt="c" width="200" height="200"/> </a>
 
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antik004&show_icons=true&locale=en&layout=compact" alt="antik004"  style="object-fit: cover;" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antik004&show_icons=true&locale=en&layout=compact" alt="antik004" /></p>
+   <br>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=antik004&show_icons=true&locale=en" alt="antik004" /></p>
+   <br>
+  
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=antik004&show_icons=true&locale=en" alt="antik004"  style="object-fit: cover;" /> 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antik004&" alt="antik004" /></p>   
+  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antik004&" alt="antik004"  style="object-fit: cover;" />
+</p>
+
 
 
 
