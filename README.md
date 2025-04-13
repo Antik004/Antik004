@@ -72,9 +72,10 @@ Here are some ideas to get you started:-->
 <h3 align="left"> 🎓 Certifiicates and Achievements:<h3>
   
 <p align="left"> <a href="https://www.credly.com/badges/8f827580-7c28-4923-a2ef-059a7c535ec8/public_url" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="c" width="200" height="200"/> </a>
-
-<p align="left"> <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FRYGAZIGPX.pdf" target="_blank" rel="noreferrer"> <img src="" alt="c" width="200" height="200"/> </a>
-
+  <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FRYGAZIGPX.pdf" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Antik004/Antik004/main/assets/THM-HACKFINITY-2025.jpg" alt="TryHackMe Certificate" width="400" height="250"/>
+  </a>
+</p>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antik004&show_icons=true&locale=en&layout=compact" alt="antik004"  style="object-fit: cover;" />
 
