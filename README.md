@@ -36,7 +36,7 @@ Here are some ideas to get you started:-->
 - 🖇️ Linked In      **https://www.linkedin.com/in/antik-adhya-b48972188/**
 
 
-
+![tryhackme stats](https://raw.githubusercontent.com/ARCEUS/ARCEUS/master/assets/thm_propic.png)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&&section=header&text=&fontSize=90)
 <h3 align="left">Languages and Tools:</h3>
