@@ -21,7 +21,7 @@ Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...   Penetration Testing
-- 👯 I’m looking to collaborate on ... Cybersecurity and penetrationtesting related projects
+- 👯 I’m looking to collaborate on ... Cybersecurity and penetration testing related projects
 - 🤔 I’m looking for help with ...     Pentesting Jobs
 - 💬 Ask me about ...                  Network Security and Pentesting Tools
 
