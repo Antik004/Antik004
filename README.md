@@ -41,7 +41,7 @@ Here are some ideas to get you started:-->
 
 <h3 align="left">TryHackMe!:</h3>
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ARCEUS.png?cb=initial)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ARCEUS.png?cb=2025041315)
 
 
 
