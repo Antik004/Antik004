@@ -83,7 +83,7 @@ Here are some ideas to get you started:-->
 
    <br>
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=antik004&show_icons=true&locale=en" alt="antik004"  style="object-fit: cover;" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=antik004&show_icons=true&locale=en" alt="antik004"  style="object-fit: cover;" /> 
 
   
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antik004&" alt="antik004"  style="object-fit: cover;" />
