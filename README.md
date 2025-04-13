@@ -62,7 +62,6 @@ Here are some ideas to get you started:-->
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="Wireshark" width="40" height="40"/>
   <img src="https://ghidra-sre.org/images/GHIDRA_1.png" alt="Ghidra" width="40" height="40"/>
 </p>
-
 <h3 align="left"> 🎓 Certifiicates and Achievements:<h3>
   
 <p align="left"> <a href="https://www.credly.com/badges/8f827580-7c28-4923-a2ef-059a7c535ec8/public_url" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="c" width="200" height="200"/> </a>
