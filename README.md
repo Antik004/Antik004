@@ -16,14 +16,12 @@ Here are some ideas to get you started:-->
  
 
  
+<h1 align="center"></h1>
 
 
-
-- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...   Penetration Testing
 - 👯 I’m looking to collaborate on ... Cybersecurity and penetration testing related projects
-- 🤔 I’m looking for help with ...     VAPT
-- 💬 Ask me about ...                  Network Security and Pentesting Tools
+- 😁 Fun Fact!!!... In this field, life revolves around flags and vulnerabilites
 
 <h1 align="center"></h1>
 
@@ -35,14 +33,15 @@ Here are some ideas to get you started:-->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antik004&theme=onedark" alt="antik004" /></a> </p>
 
-- 📫 How to reach me **adhyaantik03@gmail.com**
-- 🖇️ Linked In      **https://www.linkedin.com/in/antik-adhya-b48972188/**
+- 🕸️ Connect with me!!!
+- 📬Mail :- **adhyaantik03@gmail.com**
+- 🖇️ Linked In:- **https://www.linkedin.com/in/antik-adhya-b48972188/**
 
 <br>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&&section=header&text=&fontSize=90)
-
 <h1 align="center"></h1>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&&section=header&text=&fontSize=90)
 
 <h3 align="left">TryHackMe!:</h3>
 
@@ -69,6 +68,7 @@ Here are some ideas to get you started:-->
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="Wireshark" width="40" height="40"/>
   <img src="https://ghidra-sre.org/images/GHIDRA_1.png" alt="Ghidra" width="40" height="40"/>
 </p>
+<h1 align="center"></h1>
 <h3 align="left"> 🎓 Certifiicates and Achievements:<h3>
   
 <p align="left"> <a href="https://www.credly.com/badges/8f827580-7c28-4923-a2ef-059a7c535ec8/public_url" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="c" width="200" height="200"/> </a>
@@ -76,6 +76,7 @@ Here are some ideas to get you started:-->
     <img src="https://raw.githubusercontent.com/Antik004/Antik004/main/assets/THM-HACKFINITY-2025.jpg" alt="TryHackMe Certificate" width="400" height="250"/>
   </a>
 </p>
+<h1 align="center"></h1>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antik004&show_icons=true&locale=en&layout=compact" alt="antik004"  style="object-fit: cover;" />
 
