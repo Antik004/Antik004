@@ -46,7 +46,7 @@ Here are some ideas to get you started:-->
 
 <h3 align="left">TryHackMe!:</h3>
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ARCEUS.png?cb=2025041318)         
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ARCEUS.png?cb=2025041401)         
 👉  <a href="https://tryhackme.com/p/ARCEUS">Visit My Profile🚗</a>
 
 <h1 align="center"></h1>
