@@ -78,6 +78,9 @@ Here are some ideas to get you started:-->
   <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FRYGAZIGPX.pdf" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Antik004/Antik004/main/assets/THM-HACKFINITY-2025.jpg" alt="TryHackMe Certificate" width="400" height="250"/>
   </a>
+  <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-E0IDX5ONEH.pdf" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Antik004/Antik004/main/assets/THM-IndustrialIntrution.jpg" alt="TryHackMe Certificate" width="400" height="250"/>
+  </a>
 </p>
 <h1 align="center"></h1>
 <p>
