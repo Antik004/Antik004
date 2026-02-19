@@ -18,11 +18,6 @@ Here are some ideas to get you started:-->
  
 <h1 align="center"></h1>
 
-
-- 🌱 I’m currently learning ...   Penetration Testing
-- 👯 I’m looking to collaborate on ... Cybersecurity and penetration testing related projects
-- 😁 Fun Fact!!!... In this field, life revolves around flags and vulnerabilites
-
 <h1 align="center"></h1>
 
   <br>
