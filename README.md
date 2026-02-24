@@ -63,8 +63,8 @@ Here are some ideas to get you started:-->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="Wireshark" width="40" height="40"/>
   <img src="https://ghidra-sre.org/images/GHIDRA_1.png" alt="Ghidra" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Logo_of_Metasploit.svg" alt="Metasploit" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Burpsuite.png" alt="Burpsuite" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Logo_of_Metasploit.svg" alt="Metasploit" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Burpsuite.png" alt="Burpsuite" width="60" height="60"/>
 </p>
 <h1 align="center"></h1>
 <h3 align="left"> 🎓 Certifiicates and Achievements:<h3>
