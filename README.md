@@ -12,7 +12,7 @@ Here are some ideas to get you started:-->
 
  ![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=0,2,2,5,30height=100&section=header&text=Hi👋,%20I'm%20Antik%20Adhya&fontSize=50)
 
-<h3 align="center">A CyberSecurity Enthusiast🧑‍💻.</h3>
+<h3 align="center">A CyberSecurity practitioner🧑‍💻.</h3>
  
 
  
